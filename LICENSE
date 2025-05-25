@@ -1,0 +1,14 @@
+MIT License
+
+Copyright (c) 2025 María Victoria Quintanilla Villanueva
+
+Se otorga permiso, sin costo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para usar el Software sin restricciones, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir y/o sublicenciar el Software, sujeto a las siguientes condiciones:
+
+1. El Software se proporciona "tal cual", sin garantía de ningún tipo.
+2. Este sistema fue desarrollado como una práctica académica del Módulo IV y puede ser utilizado libremente con fines educativos o personales.
+3. Los recursos como HTML, CSS, PHP y el uso de Bootstrap vía CDN se basan en tecnologías y bibliotecas de uso libre.
+4. Los datos utilizados en este proyecto se simulan mediante archivos JSON y no corresponden a información real ni sensible.
+
+El nombre del autor deberá ser incluido en cualquier redistribución del software.
+
+Para más información sobre licencias de software libre, visite: https://opensource.org/licenses/MIT
